@@ -4,7 +4,7 @@ import Image from 'next/image'
 export default function Contact() {
     const animation = useAnimationControls()
     async function copy() {
-        navigator.clipboard.writeText('sakshi.s1592@gmail.com')
+        navigator.clipboard.writeText('etchiitch@gmail.com')
         await animation.start({ y: -40, opacity: [0, 1, 1, 1, 0], transition: { duration: 2, ease: 'easeOut' } })
         animation.start({ y: -40, opacity: 0 })
     }
@@ -25,29 +25,31 @@ export default function Contact() {
                         </motion.div>
                         <ContactButton name='Em' />
                     </motion.div>
-                    <a href="https://www.linkedin.com/in/aamirshaikh95/" target="_blank" rel="noreferrer">
+                    <a href="https://www.linkedin.com/in/sakshi-bhardwaj/" target="_blank" rel="noreferrer">
                         <ContactButton name='Li' />
                     </a>
-                    <a href="https://www.instagram.com/aamir_shaikh_95/" target="_blank" rel="noreferrer">
+                    <a href="https://www.instagram.com/etch.itch/" target="_blank" rel="noreferrer">
                         <ContactButton name='Ig' />
                     </a>
-                    <a href="https://twitter.com/aamirshaikh95/" target="_blank" rel="noreferrer">
+                    <a href="https://twitter.com/etch_itch" target="_blank" rel="noreferrer">
                         <ContactButton name='Tw' />
                     </a>
-                    <a href="https://discordapp.com/users/786990067422986252" target="_blank" rel="noreferrer">
+                    <a href="https://discord.com/channels/1146057816864464936/1146057816864464938" target="_blank" rel="noreferrer">
                         <ContactButton name='Di' />
                     </a>
                 </div>
                 <div className="w-full max-w-lg h-px mt-7"
                     style={{ backgroundImage: `linear-gradient(270deg, rgba(159, 159, 173, 0) 0%, rgba(159, 159, 173, 0.25) 48.68%, rgba(159, 159, 173, 0) 100%)` }}
                 /> {/*Divider*/}
-                <p className='text-accent font-light text-xs md:text-sm text-center mt-7'> {/*Colophon*/}
+                {/* 
+                <p className='text-accent font-light text-xs md:text-sm text-center mt-7'>
                     <span className='text-opacity-50 text-accent'>:: colophon ::</span>
                     <br />
-                    Designed and engineered by Sakshi.<br />Built with Next.js, Tailwind CSS, and Framer Motion.
+                    Designed and engineered by Sakshi.<br />Built with Music, love & Lot's of coffee.
                     <br /><br />
-                    <span className='text-opacity-50 text-accent font-light'>© Sakshi Bhardwaj. All rights reserved</span>
+                    <span className='text-opacity-50 text-accent font-light'>© Aamir Shaikh. All rights reserved</span>
                 </p>
+                */}
                 <div className="h-[66.4px] w-full flex justify-center mt-7"> {/*Dock Clamp*/}
                     <div className="w-full h-full flex items-center relative">
                         <div className="w-full h-px mr-px" style={{ backgroundImage: `linear-gradient(270deg, rgba(159, 159, 173, 0.25) 0%, rgba(159, 159, 173, 0) 100%)` }}></div>

@@ -10,12 +10,12 @@ export default function Home() {
       <Head>
         <title>Sakshi Bhardwaj</title>
         <meta name="title" content="Sakshi Bhardwaj" />
-        <meta name="description" content="Designer. Developer. Creative Coder." />
+        <meta name="description" content="Product Designer. UX Researcher. Creative Illustrator." />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://sakshibhardwaj.com/" />
         <meta property="og:title" content="Sakshi Bhardwaj" />
-        <meta property="og:description" content="Designer. Developer. Creative Coder." />
+        <meta property="og:description" content="Product Designer. UX Researcher. Creative Illustrator." />
         <meta property="og:image" content="https://sakshibhardwaj.com/images/og-image.jpg" />
 
         <meta property="twitter:card" content="summary_large_image" />
@@ -142,13 +142,13 @@ function RingAndLines() {
   )
 }
 function Name() {
-  const sakshiLetters = [`cap-s`, `a`, `k`, `cap-s`, `h`, `i`]
+  const sakshiLetters = [`cap-s`, `a`, `k`, `s`, `h`, `i`]
   const bhardwajLetters = [`cap-b`, `h`, `a`, `r`, `d`, `w`, `a`, `j`]
 
   return (
-    <div className="scale-[0.65] md:scale-[0.85] origin-bottom flex flex-col justify-center items-center"> {/* Homepage animation*/}
+    <div className="scale-[0.65] md:scale-[0.85] origin-bottom flex flex-col justify-center items-center"> {/*Name*/}
       <div className="min-w-max flex gap-1 items-end"> {/*Sakshi*/}
-        {sakshiLetters.map((e, i) => {
+        {sakshiLetters?.map((e, i) => {
           return (
             <div className="overflow-hidden" key={i}>
               <motion.img custom={i} variants={sakshiVariant} initial='hidden' animate='visible' src={`svg/name/${e}.svg`} alt='Letter' draggable="false" />
@@ -169,7 +169,7 @@ function Name() {
   )
 }
 function TitleCarousel() {
-  const titlesContent = <p><span className="text-highlight"> {fancySymbol} </span>Designer<span className="text-highlight"> {fancySymbol} </span>Developer<span className="text-highlight"> {fancySymbol} </span>Creative Coder</p>
+  const titlesContent = <p><span className="text-highlight"> {fancySymbol} </span>Product Designer<span className="text-highlight"> {fancySymbol} </span>UX Research<span className="text-highlight"> {fancySymbol} </span>Branding Designer</p>
   return (
     <div className="w-15">
       <motion.div

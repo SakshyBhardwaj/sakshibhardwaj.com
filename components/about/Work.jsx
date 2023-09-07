@@ -24,40 +24,64 @@ export default function Work() {
             <motion.div variants={scrollTriggerAnimation} className="w-full h-fit flex justify-between py-5 border-t-[0.05rem] border-accent border-opacity-10 mt-4 font-light">
                 <p className={`${paraStyle}`}>
                     <span className="text-highlight">
-                        UX Designer
+                        Lead UI/UX Designer
                     </span>
                     <br />
                     <span className="text-opacity-50 text-accent">
-                        @ Accenture
+                        @ Gemini Solutions Pvt. Ltd.
                     </span>
 
                 </p>
-                <p className={`text-right ${paraStyle}`}>Summer &apos;22 - Now</p>
+                <p className={`text-right ${paraStyle}`}>April &apos;22 - Now</p>
             </motion.div>
             <motion.div variants={scrollTriggerAnimation} className="w-full h-fit flex justify-between py-5 border-t-[0.05rem] border-accent border-opacity-10 font-light">
-                <p className={`${paraStyle}`}>
-                    <span className="text-highlight">
-                        Creative Developer
-                    </span>
-                    <br />
-                    <span className="text-opacity-50 text-accent">
-                        @ IIT Gandhinagar
-                    </span>
-                </p>
-                <p className={`text-right ${paraStyle}`}>Summer &apos;22</p>
-            </motion.div>
-            <motion.div variants={scrollTriggerAnimation} className="w-full h-fit flex justify-between py-5 border-y-[0.05rem] border-accent border-opacity-10 font-light">
                 <p className={`${paraStyle}`}>
                     <span className="text-highlight">
                         Product Designer
                     </span>
                     <br />
                     <span className="text-opacity-50 text-accent">
-                        @ Sezzle
+                        @ Spark Eighteen
                     </span>
                 </p>
-                <p className={`text-right ${paraStyle}`}>Mid &apos;21 - &apos;22</p>
+                <p className={`text-right ${paraStyle}`}>Jan &apos;19 - Dec &apos;19</p>
             </motion.div>
+            <motion.div variants={scrollTriggerAnimation} className="w-full h-fit flex justify-between py-5 border-y-[0.05rem] border-accent border-opacity-10 font-light">
+                <p className={`${paraStyle}`}>
+                    <span className="text-highlight">
+                        UI/UX Designer
+                    </span>
+                    <br />
+                    <span className="text-opacity-50 text-accent">
+                        @ Digital Impressions India
+                    </span>
+                </p>
+                <p className={`text-right ${paraStyle}`}>July &apos;17 - Dec &apos;19</p>
+            </motion.div>
+            <motion.div variants={scrollTriggerAnimation} className="w-full h-fit flex justify-between py-5 border-t-[0.05rem] border-accent border-opacity-10 font-light">
+            <p className={`${paraStyle}`}>
+                <span className="text-highlight">
+                    Art Director
+                </span>
+                <br />
+                <span className="text-opacity-50 text-accent">
+                    @ Curious Minds
+                </span>
+            </p>
+            <p className={`text-right ${paraStyle}`}>Oct &apos;15 - Jul &apos;17</p>
         </motion.div>
-    )
+        <motion.div variants={scrollTriggerAnimation} className="w-full h-fit flex justify-between py-5 border-t-[0.05rem] border-accent border-opacity-10 font-light">
+            <p className={`${paraStyle}`}>
+                <span className="text-highlight">
+                    Graphic Designer
+                </span>
+                <br />
+                <span className="text-opacity-50 text-accent">
+                    @ Allied Market Research
+                </span>
+            </p>
+            <p className={`text-right ${paraStyle}`}>July &apos;13 - Sep &apos;15</p>
+        </motion.div>
+        </motion.div>
+ )
 }

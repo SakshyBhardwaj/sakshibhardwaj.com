@@ -35,11 +35,11 @@ const toolData = [
     },
     {
         url: 'xd-min.svg',
-        name: 'XD'
+        name: 'Adobe XD'
     },
     {
         url: 'ps-min.svg',
-        name: 'Photoshop'
+        name: 'FigJam'
     },
     {
         url: 'ai-min.svg',
@@ -47,51 +47,19 @@ const toolData = [
     },
     {
         url: 'react-min.svg',
-        name: 'ReactJS'
+        name: 'Photoshop'
     },
     {
         url: 'next-min.svg',
-        name: 'NextJS'
-    },
-    {
-        url: 'tailwind-min.svg',
-        name: 'Tailwind CSS'
-    },
-    {
-        url: 'framer-min.svg',
-        name: 'Framer Motion'
-    },
-    {
-        url: 'html-min.svg',
-        name: 'HTML'
-    },
-    {
-        url: 'css-min.svg',
-        name: 'CSS'
-    },
-    {
-        url: 'js-min.svg',
-        name: 'JavaScript'
-    },
-    {
-        url: 'p5js-min.svg',
-        name: 'p5.js'
-    },
-    {
-        url: 'processing-min.svg',
-        name: 'Processing'
-    },
-    {
-        url: 'webgl-min.svg',
-        name: 'WebGL'
+        name: 'Canva'
     },
     {
         url: 'blender-min.svg',
-        name: 'Blender'
+        name: 'Miro'
     },
     {
         url: 'spline.png',
-        name: 'Spline'
+        name: 'Wordpress'
     }
 ]
 function Tool(props) {
