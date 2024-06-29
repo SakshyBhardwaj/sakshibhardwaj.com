@@ -1,11 +1,11 @@
 export const workData = [
     {
         nos: `01`,
-        title: `Redesigning Sezzle’s Checkout`,
+        title: `Group Ordering in Swiggy`,
         tags: `Product Design`,
-        desc: `Redesigning Sezzle's Checkout flow for increased conversions and faster checkouts`,
+        desc: `Designing a feature for Swiggy (a food delivery app) that allows a group of people to order food together`,
         imgsrc: `images/work/checkout.png`,
-        link: `https://medium.com/@747.aamir/redesigning-sezzles-checkout-debe9a137305`
+        link: `https://medium.com/@sakshy/swiggy-group-order-eccd392924f7`
     },
     {
         nos: `02`,
