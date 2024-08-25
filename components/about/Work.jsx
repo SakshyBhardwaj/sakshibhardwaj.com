@@ -32,7 +32,7 @@ export default function Work() {
                     </span>
 
                 </p>
-                <p className={`text-right ${paraStyle}`}>April &apos;22 - Now</p>
+                <p className={`text-right ${paraStyle}`}>April &apos;20 - Now</p>
             </motion.div>
             <motion.div variants={scrollTriggerAnimation} className="w-full h-fit flex justify-between py-5 border-t-[0.05rem] border-accent border-opacity-10 font-light">
                 <p className={`${paraStyle}`}>
