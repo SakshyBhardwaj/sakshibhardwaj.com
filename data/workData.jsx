@@ -3,7 +3,7 @@ export const workData = [
         nos: `01`,
         title: `Group Ordering in Swiggy`,
         tags: `Product Design`,
-        desc: `Designing a feature for Swiggy (a food delivery app) that allows a group of people to order food together`,
+        desc: `Designing a feature for Swiggy (a food delivery app) that allows a group of people to order food together.`,
         imgsrc: `images/work/checkout.png`,
         link: `https://medium.com/@sakshy/swiggy-group-order-eccd392924f7`
     },
@@ -11,17 +11,17 @@ export const workData = [
         nos: `02`,
         title: `Ryanair Case Study`,
         tags: `Case Study`,
-        desc: `Ryanair UX Case study`,
-        imgsrc: `images/work/iitgn.jpg`,
-        link: `https://medium.com/@sakshy/case-study-identifying-and-resolving-bugs-in-ryanair-9f531435e2e3`
+        desc: `This case study highlights the process I followed to identify and resolve usability issues on Ryanair platform.`,
+        imgsrc: `images/work/ryanair.png`,
+        link: `https://www.linkedin.com/pulse/case-study-ryanair-sakshi-bhardwaj-qe9rc/`
     },
     {
         nos: `03`,
         title: `Infographics`,
         tags: `Infographic Design`,
-        desc: `Designing a Infographic for Infographic for Anti-Counterfeit Packaging Market`,
-        imgsrc: `images/work/swiggy3.png`,
-        link: `https://medium.com/design-bootcamp/a-ux-approach-to-infographic-for-anti-counterfeit-packaging-market-454fcef757e7`
+        desc: `Designing a Infographic for Anti-Counterfeit Packaging Market`,
+        imgsrc: `images/work/infographic.png`,
+        link: `https://www.linkedin.com/pulse/ux-approach-infographic-anti-counterfeit-packaging-market-bhardwaj-v4ptc/`
     },
     {
         nos: `04`,
