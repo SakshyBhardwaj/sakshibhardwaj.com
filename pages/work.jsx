@@ -7,8 +7,8 @@ import Layout from '../components/global/Layout'
 import Head from 'next/head'
 
 import workImg1 from "../public/images/work/checkout.png"
-import workImg2 from "../public/images/work/iitgn.jpg"
-import workImg3 from "../public/images/work/swiggy3.png"
+import workImg2 from "../public/images/work/ryanair.jpg"
+import workImg3 from "../public/images/work/infographic.png"
 import workImg4 from "../public/images/work/referral.png"
 
 const workImgArray = [workImg1, workImg2, workImg3, workImg4]
