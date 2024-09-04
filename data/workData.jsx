@@ -27,7 +27,7 @@ export const workData = [
         nos: `04`,
         title: `Designing Referrals for Sezzle`,
         tags: `Product Design`,
-        desc: `Enabling users to refer their friends to Sezzle and get rewarded for it`,
+        desc: `Enabling user to refer their friends to Sezzle and get rewarded for it`,
         imgsrc: `images/work/referral.png`,
         link: `https://medium.com/@747.aamir/designing-referrals-for-sezzle-9eefb830f86e`
     }
