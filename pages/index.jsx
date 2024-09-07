@@ -146,7 +146,7 @@ function Name() {
   const bhardwajLetters = [`cap-b`, `h`, `a`, `r`, `d`, `w`, `a`, `j`]
 
   return (
-    <div className="scale-[0.65] md:scale-[0.85] origin-bottom flex flex-col justify-center items-center"> {/*Name*/}
+    <div className="scale-[0.65] md:scale-[0.75] origin-bottom flex flex-col justify-center items-center"> {/*Name*/}
       <div className="min-w-max flex gap-1 items-end"> {/*Sakshi*/}
         {sakshiLetters?.map((e, i) => {
           return (
