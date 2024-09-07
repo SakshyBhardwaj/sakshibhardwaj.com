@@ -38,7 +38,7 @@ const toolData = [
         name: 'Adobe XD'
     },
     {
-        url: 'ps-min.svg',
+        url: 'figma-min.svg',
         name: 'FigJam'
     },
     {
@@ -46,19 +46,19 @@ const toolData = [
         name: 'Illustrator'
     },
     {
-        url: 'react-min.svg',
+        url: 'ps-min.svg',
         name: 'Photoshop'
     },
     {
-        url: 'next-min.svg',
+        url: 'canva.svg',
         name: 'Canva'
     },
     {
-        url: 'blender-min.svg',
+        url: 'miro.svg',
         name: 'Miro'
     },
     {
-        url: 'spline.png',
+        url: 'wordpress.svg',
         name: 'Wordpress'
     }
 ]

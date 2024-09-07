@@ -25,10 +25,10 @@ export const workData = [
     },
     {
         nos: `04`,
-        title: `Designing Referrals for Sezzle`,
-        tags: `Product Design`,
-        desc: `Enabling user to refer their friends to Sezzle and get rewarded for it`,
-        imgsrc: `images/work/referral.png`,
-        link: `https://medium.com/@747.aamir/designing-referrals-for-sezzle-9eefb830f86e`
+        title: `UX Design Principle: Fitts’ Law`,
+        tags: `UX Writing`,
+        desc: `I have a passion for sharing knowledge, which led me to start a newsletter series on LinkedIn. One of the articles in this series garnered the highest engagement and positive feedback`,
+        imgsrc: `images/work/linkedin.png`,
+        link: `https://www.linkedin.com/posts/sakshi-bhardwaj_uxdesign-design-ui-activity-7171828019014033410-k5b8/?utm_source=share&utm_medium=member_desktop`
     }
 ]
