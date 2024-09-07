@@ -4,7 +4,7 @@ export const workData = [
         title: `Group Ordering in Swiggy`,
         tags: `Product Design`,
         desc: `Designing a feature for Swiggy (a food delivery app) that allows a group of people to order food together.`,
-        imgsrc: `images/work/checkout.png`,
+        imgsrc: `images/work/Swiggy.png`,
         link: `https://medium.com/@sakshy/swiggy-group-order-eccd392924f7`
     },
     {
