@@ -4,7 +4,7 @@ export const playData = [
         imgUrl: `images/play/otaku-quiz.png`,
         tags: ['Illustration', 'Doodle'],
         desc: `I've created a piece featuring black and white horses that mirror each other in shape but present contrasting colors. This composition explores psychological themes of duality and balance, reflecting how opposing forces can coexist harmoniously.`,
-        url: `https://github.com/SakshyBhardwaj`
+        url: `https://www.instagram.com/p/BQF6wgoDY8n/`
     },
     {
         name: `Doodle Art`,
@@ -46,7 +46,7 @@ export const playData = [
         imgUrl: `images/play/alien-threads.png`,
         tags: ['Illustration', 'Doodle'],
         desc: `This playful illustration depicts a boy navigating through a whirlwind of irrational thoughts. Designed as a personal creative outlet, it reflects the mental landscape I often explore. It captures the essence of what’s been swirling in my mind, portraying the struggle to make sense of and overcome overwhelming thoughts.`,
-        url: ``
+        url: `https://www.instagram.com/p/BI0ROV4jZPT/`
     },
     {
         name: `Dark Flower`,
@@ -67,7 +67,7 @@ export const playData = [
         imgUrl: `images/play/bezier-flowers.png`,
         tags: ['Line-art', 'Illustration'],
         desc: `This illustration captures the essence of my first snorkeling. A memorable experience that left a lasting impression. The design reflects the emotions and sensations from that moment, making it an unforgettable part of my artistic journey.`,
-        url: `https://www.instagram.com/p/CUdatl0gQ9S/?utm_source=ig_web_copy_link`
+        url: ``
     },
     {
         name: `Circle Wrap`,
@@ -102,14 +102,14 @@ export const playData = [
         imgUrl: `images/play/sezzle.png`,
         tags: ['Doodling', 'Sketch'],
         desc: `This doodle art, crafted purely for fun, dates back eight years to a time when I was refining my skills in doodling and illustration.`,
-        url: ``
+        url: `https://www.instagram.com/p/BJpkjQpjkNz/`
     },
     {
         name: `Emotions`,
         imgUrl: `images/play/kunai-0.png`,
         tags: ['Color', 'Composition'],
         desc: `Created during the COVID pandemic, this design uses color to represent various moods experienced during that period. The small polka dots symbolize the doubts and uncertainties we faced at the time.`,
-        url: ``
+        url: `https://www.instagram.com/p/B_VdMJhlnx6/`
     },
     {
         name: `Void`,
@@ -123,7 +123,7 @@ export const playData = [
         imgUrl: `images/play/cutout.png`,
         tags: ['Doodle', 'Illustration'],
         desc: `This illustration represents the metaphorical wings we need to soar through life. It was part of a series of compositions I designed, each capturing different aspects of personal growth and aspiration.`,
-        url: `https://www.instagram.com/p/ChS6NlpKKYz/?utm_source=ig_web_copy_link`
+        url: `https://www.instagram.com/p/BPuVL-nDnrk/`
     },
     {
         name: `Four Towers`,
@@ -144,7 +144,7 @@ export const playData = [
         imgUrl: `images/play/blaze-flower.png`,
         tags: ['Illustration', 'Doodle'],
         desc: `Fun fun and only FUN :)`,
-        url: `https://www.instagram.com/p/CTfHWtyD8q2/?utm_source=ig_web_copy_link`
+        url: `https://www.instagram.com/p/BJpkjQpjkNz/`
     },
     {
         name: `Donut`,
