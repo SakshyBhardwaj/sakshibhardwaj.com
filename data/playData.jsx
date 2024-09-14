@@ -1,16 +1,16 @@
 export const playData = [
     {
-        name: `Otaku Quiz`,
+        name: `Composition`,
         imgUrl: `images/play/otaku-quiz.png`,
-        tags: ['Web Dev', 'ReactJS'],
-        desc: `An anime quiz app! Designed and developed the frontend and hooked it to a public API. This was one of my first ReactJS solo projects`,
+        tags: ['Illustration', 'Doodle'],
+        desc: `I've created a piece featuring black and white horses that mirror each other in shape but present contrasting colors. This composition explores psychological themes of duality and balance, reflecting how opposing forces can coexist harmoniously.`,
         url: `https://github.com/SakshyBhardwaj`
     },
     {
-        name: `Fabric`,
+        name: `Doodle Art`,
         imgUrl: `images/play/fabric.png`,
-        tags: ['Creative Code', 'p5js'],
-        desc: `A grid of osciallating dots. Each dot is offset by a value which is proportional to it's distance from the center`,
+        tags: ['Doodle', 'Art'],
+        desc: `This doodle art, crafted purely for fun, dates back eight years to a time when I was refining my skills in doodling and illustration.`,
         url: `https://www.instagram.com/p/CU558ProDpZ/?utm_source=ig_web_copy_link`
     },
     {
@@ -42,10 +42,10 @@ export const playData = [
         url: `https://www.instagram.com/tv/CbLozMDlgvZ/?utm_source=ig_web_copy_link`
     },
     {
-        name: `Alien Threads`,
+        name: `Doodle`,
         imgUrl: `images/play/alien-threads.png`,
-        tags: ['Creative Code', 'p5js'],
-        desc: `This is the result of changing the value of just a single variable in the classic flow field algorithm!!`,
+        tags: ['Illustration', 'Doodle'],
+        desc: `This playful illustration depicts a boy navigating through a whirlwind of irrational thoughts. Designed as a personal creative outlet, it reflects the mental landscape I often explore. It captures the essence of what’s been swirling in my mind, portraying the struggle to make sense of and overcome overwhelming thoughts.`,
         url: ``
     },
     {
@@ -63,10 +63,10 @@ export const playData = [
         url: `https://www.instagram.com/p/COLKFZ8DhSm/?utm_source=ig_web_copy_link`
     },
     {
-        name: `Bezier Flowers`,
+        name: `oh Fish`,
         imgUrl: `images/play/bezier-flowers.png`,
-        tags: ['Creative Code', 'p5js'],
-        desc: `Bezier curves are pretty awesome!`,
+        tags: ['Line-art', 'Illustration'],
+        desc: `This illustration captures the essence of my first snorkeling. A memorable experience that left a lasting impression. The design reflects the emotions and sensations from that moment, making it an unforgettable part of my artistic journey.`,
         url: `https://www.instagram.com/p/CUdatl0gQ9S/?utm_source=ig_web_copy_link`
     },
     {
@@ -98,17 +98,17 @@ export const playData = [
         url: `https://twitter.com/i/status/1389337421482008581`
     },
     {
-        name: `Sezzle Logo`,
+        name: `Doodle Art`,
         imgUrl: `images/play/sezzle.png`,
-        tags: ['3D', 'Blender'],
-        desc: `Practicing Blender`,
+        tags: ['Doodling', 'Sketch'],
+        desc: `This doodle art, crafted purely for fun, dates back eight years to a time when I was refining my skills in doodling and illustration.`,
         url: ``
     },
     {
-        name: `Kunai-0`,
+        name: `Emotions`,
         imgUrl: `images/play/kunai-0.png`,
-        tags: ['3D', 'Blender'],
-        desc: `Early prototype of the kunai`,
+        tags: ['Color', 'Composition'],
+        desc: `Created during the COVID pandemic, this design uses color to represent various moods experienced during that period. The small polka dots symbolize the doubts and uncertainties we faced at the time.`,
         url: ``
     },
     {
@@ -119,10 +119,10 @@ export const playData = [
         url: ``
     },
     {
-        name: `💢.mp4`,
+        name: `Fly High`,
         imgUrl: `images/play/cutout.png`,
-        tags: ['Shader', 'GLSL'],
-        desc: `Second foray in shader land`,
+        tags: ['Doodle', 'Illustration'],
+        desc: `This illustration represents the metaphorical wings we need to soar through life. It was part of a series of compositions I designed, each capturing different aspects of personal growth and aspiration.`,
         url: `https://www.instagram.com/p/ChS6NlpKKYz/?utm_source=ig_web_copy_link`
     },
     {
@@ -140,10 +140,10 @@ export const playData = [
         url: ``
     },
     {
-        name: `Blaze Flower`,
+        name: `Two Hands Talking`,
         imgUrl: `images/play/blaze-flower.png`,
-        tags: ['Creative Code', 'p5js'],
-        desc: `❋`,
+        tags: ['Illustration', 'Doodle'],
+        desc: `Fun fun and only FUN :)`,
         url: `https://www.instagram.com/p/CTfHWtyD8q2/?utm_source=ig_web_copy_link`
     },
     {
